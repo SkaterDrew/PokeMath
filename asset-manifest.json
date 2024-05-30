@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pokemath/static/css/main.afe81acb.css",
+    "main.js": "/pokemath/static/js/main.d122696b.js",
+    "static/js/453.bf90f9c9.chunk.js": "/pokemath/static/js/453.bf90f9c9.chunk.js",
+    "static/media/Bubble Love Demo.otf": "/pokemath/static/media/Bubble Love Demo.35e48bb45265dbf23113.otf",
+    "static/media/Pokemon Hollow.ttf": "/pokemath/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
+    "static/media/Pokemon Solid.ttf": "/pokemath/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/pokemath/index.html",
+    "main.afe81acb.css.map": "/pokemath/static/css/main.afe81acb.css.map",
+    "main.d122696b.js.map": "/pokemath/static/js/main.d122696b.js.map",
+    "453.bf90f9c9.chunk.js.map": "/pokemath/static/js/453.bf90f9c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe81acb.css",
+    "static/js/main.d122696b.js"
+  ]
+}
