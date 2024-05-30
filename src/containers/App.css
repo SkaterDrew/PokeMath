@@ -1,0 +1,48 @@
+.bg-dark-blue-o-80 {
+    background-color: rgba(0, 68, 158, 0.8); /* dark blue with 30% opacity */
+}
+
+.bg-dark-blue-o-60 {
+    background-color: rgba(0, 68, 158, 0.6); /* dark blue with 30% opacity */
+}
+
+.bg-new-yellow {
+    background-color: #F1BE00;
+}
+
+@font-face {
+    font-family: 'PokeFont Hollow'; /* You can choose any name */
+    src: url('Pokemon Hollow.ttf') format('truetype'); /* Update the path */
+}
+  
+.pokefont-h {
+    font-family: 'PokeFont Hollow', sans-serif; /* Use the font */
+}
+
+@font-face {
+    font-family: 'PokeFont Solid'; /* You can choose any name */
+    src: url('Pokemon Solid.ttf') format('truetype'); /* Update the path */
+}
+  
+.pokefont-s {
+    font-family: 'PokeFont Solid', sans-serif; /* Use the font */
+}
+
+@font-face {
+    font-family: 'Bubble'; /* You can choose any name */
+    src: url('Bubble Love Demo.otf') format('opentype'); /* Update the path */
+}
+  
+.bubble {
+    font-family: 'Bubble', sans-serif; /* Use the font */
+}
+
+.hide-r {
+    position: absolute;
+    right: -200px;
+}
+
+.show-ns {
+    position: static;
+    right: auto;
+}
